@@ -10,3 +10,5 @@ this is another line
 
 line created in branch 2
 
+line added in branch 3
+
